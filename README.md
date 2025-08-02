@@ -1,1 +1,1 @@
-# on_project
+print ("hello world ")
